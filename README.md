@@ -1,1 +1,2 @@
 # algoCryptoTrader
+New Trading Platform
